@@ -19,14 +19,14 @@ const ITENS = [
     preco: "R$ 0,50 (und)",
     precoNum: 0.50,
     categoria: "paes",
-    imagem: "img/paes.png"
+    imagem: "paes.png"
   }, {
     nome: "Pães de leite",
     descricao: "Pães frescos, perfeito para seu café da manhã.",
     preco: "R$ 1,00 (und)",
     precoNum: 1.00,
     categoria: "paes",
-    imagem: "img/PAO DE LEITE.png"
+    imagem: "PAO DE LEITE.png"
   },
   {
     nome: "Pão de Queijo",
@@ -34,7 +34,7 @@ const ITENS = [
     preco: "R$ 3,00 (100g)",
     precoNum: 3.00,
     categoria: "paes",
-    imagem: "img/PAES DE QUEIJO.png"
+    imagem: "PAES DE QUEIJO.png"
   },
   {
     nome: "BOLO DE FESTA",
@@ -42,7 +42,7 @@ const ITENS = [
     preco: "R$ 45,00",
     precoNum: 45.00,
     categoria: "outros",
-    imagem: "img/BOLO.png"
+    imagem: "BOLO.png"
   },
   {
     nome: "BOLO DE FUBÁ",
@@ -50,14 +50,14 @@ const ITENS = [
     preco: "R$ 20,00",
     precoNum: 20.00,
     categoria: "outros",
-    imagem: "img/BOLO DE FUBA.png"
+    imagem: "BOLO DE FUBA.png"
   },{
     nome: "BOLO DE CHOCOLATE",
     descricao: "bolo de chocolate, perfeito para seu cafe da manhã.",
     preco: "R$ 45,00",
     precoNum: 45.00,
     categoria: "outros",
-    imagem: "img/BOLO DE CHOCOLATE.png"
+    imagem: "BOLO DE CHOCOLATE.png"
   },
   {
     nome: "QUEIJO",
@@ -65,7 +65,7 @@ const ITENS = [
     preco: "5,00 (100g)",
     precoNum: 5.00,
     categoria: "frios",
-    imagem: "img/QUEIJO.png"
+    imagem: "QUEIJO.png"
   },
   {
     nome: "MORTADELA",
@@ -73,7 +73,7 @@ const ITENS = [
     preco: "R$ 2,50 (100g)",
     precoNum: 2.50,
     categoria: "frios",
-    imagem: "img/MORTADELA.png"
+    imagem: "MORTADELA.png"
   },
   {
     nome: "PRESUNTO",
@@ -81,7 +81,7 @@ const ITENS = [
     preco: "R$ 4,50 (100g)",
     precoNum: 4.50,
     categoria: "frios",
-    imagem: "img/PRESUNTO.png"
+    imagem: "PRESUNTO.png"
   },
 ];
 
@@ -96,19 +96,19 @@ const BEBIDAS = [
     descricao: "Lata bem gelada 350ml.",
     preco: "R$ 7,00",
     precoNum: 7.00,
-    imagem: "img/COCA COLA.jpeg"
+    imagem: "COCA COLA.jpeg"
   },{
     nome: "Coca-Cola Zero lata 350ml",
     descricao: "Lata bem gelada 350ml.",
     preco: "R$ 7,00",
     precoNum: 7.00,
-    imagem: "img/COCA COLA ZERO.jpeg"
+    imagem: "COCA COLA ZERO.jpeg"
   },
   {
     nome: "Água com Gás",
     descricao: "Garrafa 500ml gelada.",
     preco: "R$ 5,00",
     precoNum: 5.00,
-    imagem: "img/AGUA COM GAS.jpg"
+    imagem: "AGUA COM GAS.jpg"
   }
 ];
