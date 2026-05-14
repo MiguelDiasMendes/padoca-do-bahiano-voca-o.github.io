@@ -19,7 +19,7 @@ const ITENS = [
     preco: "R$ 0,50 (und)",
     precoNum: 0.50,
     categoria: "paes",
-    imagem: "paes.png"
+    imagem: "PAES.png"
   }, {
     nome: "Pães de leite",
     descricao: "Pães frescos, perfeito para seu café da manhã.",
